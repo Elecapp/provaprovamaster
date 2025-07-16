@@ -19,8 +19,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Project Template"
-subtitle: "This is a template for SoBigData Master's projects"
+title: "PROVA PROVA"
+subtitle: "This is a template for SoBigData Master's projects PROVA"
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -46,7 +46,7 @@ url: "https://elecapp.github.io"
 navbar:
   style :  dual #don't change this, it is used to set the navbar style.
   brand: # this is the brand of the navbar, it will be displayed on the left side.
-    title :  "SoBigData Master's projects Template"
+    title :  "SoBigData Master's projects Prova"
     img: "./assets/images/Logo_masthead.png" # don't change this
     url: /
   nav:
@@ -66,6 +66,8 @@ navbar:
           url: /folium.html
         - title: Sliders
           url: /slider.html
+    - title: Prova
+      url: /prova.html
 
     - title: SBD Master # this must be always the last item in the navbar, don't change it
       url: https://masterbigdata.it/
